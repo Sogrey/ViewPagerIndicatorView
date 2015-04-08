@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- viewpager -->
+    <color name="title">#ff333333</color>
+    <color name="frame">#61a716</color>
+    <color name="divider">#e6e6e6</color>
+    <color name="bgcol1">#E4EEFA</color>
+
+</resources>
